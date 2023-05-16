@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Aldi>
+    <direccion>Glorieta de Cuatro Caminos 6</direccion>
+    <codigoPostal>28020</codigoPostal>
+    <coordenadas>
+        <norte>40°26'50.51</norte>
+        <sur></sur>
+        <este></este>
+        <oeste>3°42'12.88</oeste>
+    </coordenadas>
+    <productos>
+        <panaderia>
+            <producto>pan blanco</producto>
+            <marca>El horno</marca>
+            <informacion>
+                <unidades>1</unidades>
+                <fresco>true</fresco>
+                <formato>envasado</formato>
+                <cantidad>500</cantidad>
+                <unidadMedida>gramos</unidadMedida>
+            </informacion>
+            <precioVta>1.99</precioVta>
+            <perecedero>true</perecedero>
+            <enOferta>true</enOferta>
+            <comprado>false</comprado>
+        </panaderia>
+        <panaderia>
+            <producto>pan semillas y cereales</producto>
+            <marca>El horno</marca>
+            <informacion>
+                <unidades>1</unidades>
+                <fresco>true</fresco>
+                <formato>envasado</formato>
+                <cantidad>450</cantidad>
+                <unidadMedida>gramos</unidadMedida>
+            </informacion>
+            <precioVta>2.67</precioVta>
+            <perecedero>true</perecedero>
+            <enOferta>false</enOferta>
+            <comprado>true</comprado>
+        </panaderia>
+        <fruteria>
+            <producto>tomate cherry</producto>
+            <marca>Aldi</marca>
+            <informacion>
+                <unidades>1</unidades>
+                <fresco>true</fresco>
+                <formato>envasado</formato>
+                <cantidad>200</cantidad>
+                <unidadMedida>gramos</unidadMedida>
+            </informacion>
+            <precioVta>0.99</precioVta>
+            <perecedero>true</perecedero>
+            <enOferta>true</enOferta>
+            <comprado>true</comprado>
+        </fruteria>
+        <fruteria>
+            <producto>piña</producto>
+            <marca>Del Monte</marca>
+            <informacion>
+                <unidades>1</unidades>
+                <fresco>true</fresco>
+                <formato>al peso</formato>
+                <cantidad>1.5</cantidad>
+                <unidadMedida>kilo gramos</unidadMedida>
+            </informacion>
+            <precioVta>2.19</precioVta>
+            <perecedero>true</perecedero>
+            <enOferta>false</enOferta>
+            <comprado>true</comprado>
+        </fruteria>
+    </productos>
+</Aldi>
